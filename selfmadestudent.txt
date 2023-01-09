@@ -1,0 +1,295 @@
+StudentId = 46
+Name = Tan Fat
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 2.0000
+
+StudentId = 25
+Name = Tan Ge
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 2.0000
+
+StudentId = 78
+Name = Tan start
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 1.3131
+
+StudentId = 12
+Name = Hu Wei
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 3.2100
+
+StudentId = 28
+Name = Matt Damon
+Address = 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+DOB = 10-10-1970
+PhoneNumber = 790-3233
+Course = CS
+CGPA = 3.12076
+
+StudentId = 69
+Name = Ben ten
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 1.0000
+
+StudentId = 80
+Name = Tan JingJie
+Address = Hello world 1234
+DOB = 11-06-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 4.0000
+
+StudentId = 7
+Name = Lim JingJie
+Address = Hello world 1234
+DOB = 11-06-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 4.0000
+
+StudentId = 22
+Name = Ben Affleck
+Address = 200 Hunting Street, Malaysia 784563
+DOB = 25-10-1968
+PhoneNumber = 432-4579
+Course = IB
+CGPA = 3.12076
+
+StudentId = 30
+Name = Julia Roberts
+Address = 100 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 58
+Name = Test 
+Address = Hello world 1234
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 70
+Name = Tan WeiMun
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 4.0000
+
+StudentId = 70
+Name = Test duplicate
+Address = 200 Hunting Street, Malaysia 784563
+DOB = 25-10-1968
+PhoneNumber = 432-4579
+Course = IB
+CGPA = 3.12076
+
+StudentId = 87
+Name = Hello world
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 2.0400
+
+StudentId = 1
+Name = Tan gg
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 4.0000
+
+StudentId = 10
+Name = Tan Mun
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 1.4412
+
+StudentId = 19
+Name = Phua Chu Kang
+Address = 50 PCK Avenue, Malaysia 639798
+DOB = 11-08-1964
+PhoneNumber = 345-6780
+Course = CS
+CGPA = 3.12076
+
+StudentId = 23
+Name = Salma Hayek
+Address = 45 Mexican Boulevard, Hotel California, Malaysia 467822
+DOB = 06-04-1973
+PhoneNumber = 790-0000
+Course = CS
+CGPA = 3.12076
+
+StudentId = 29
+Name = Julia Roberts
+Address = 100 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 40
+Name = EARTH
+Address = Hello world 1234
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 40
+Name = Test duplicate
+Address = Hello world 1234
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 40
+Name = Test duplicate
+Address = Hello world 1234
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 48
+Name = JJ Thomsom
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 3.5123
+
+StudentId = 48
+Name = Test duplicate
+Address = 100 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 68
+Name = Phua Kang
+Address = 50 PCK Avenue, Malaysia 639798
+DOB = 11-08-1964
+PhoneNumber = 345-6780
+Course = CS
+CGPA = 3.12076
+
+StudentId = 72
+Name = qMatt Damon
+Address = 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+DOB = 10-10-1970
+PhoneNumber = 790-3233
+Course = CS
+CGPA = 3.12076
+
+StudentId = 82
+Name = Go go powerranger
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 3.2100
+
+StudentId = 96
+Name = sJulia Roberts
+Address = 100 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 0
+Name = Tan end
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 1.3131
+
+StudentId = 3
+Name = Yes Ido
+Address = Hello world 1234
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 9
+Name = Tan Mun
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 1.0000
+
+StudentId = 15
+Name = Tan Gg
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 2.0000
+
+StudentId = 36
+Name = Fat Fat
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 2.0000
+
+StudentId = 43
+Name = power puff
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 1.4412
+
+StudentId = 47
+Name = Tan Ge
+Address = Hello world 1234
+DOB = 31-04-2000
+PhoneNumber = 381-0852
+Course = CS
+CGPA = 2.0400
+
+StudentId = 93
+Name = Salma Hayeked
+Address = 45 Mexican Boulevard, Hotel California, Malaysia 467822
+DOB = 06-04-1973
+PhoneNumber = 790-0000
+Course = CS
+CGPA = 3.12076
+
+StudentId = 56
+Name = No test
+Address = Hello world 1234
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678

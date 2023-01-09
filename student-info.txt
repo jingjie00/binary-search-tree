@@ -1,0 +1,264 @@
+
+Name: Tan end
+ID: 0
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 1.3131
+
+Name: Tan gg
+ID: 1
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 4
+
+Name: Yes Ido
+ID: 3
+Address: Hello world 1234
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+Name: Lim JingJie
+ID: 7
+Address: Hello world 1234
+Date of Birth: 11-06-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 4
+
+Name: Tan Mun
+ID: 9
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 1
+
+Name: Tan Mun
+ID: 10
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 1.4412
+
+Name: Hu Wei
+ID: 12
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 3.21
+
+Name: Tan Gg
+ID: 15
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 2
+
+Name: Phua Chu Kang
+ID: 19
+Address: 50 PCK Avenue, Malaysia 639798
+Date of Birth: 11-08-1964
+Phone No: 345-6780
+Course: CS
+CGPA: 3.12076
+
+Name: Ben Affleck
+ID: 22
+Address: 200 Hunting Street, Malaysia 784563
+Date of Birth: 25-10-1968
+Phone No: 432-4579
+Course: IB
+CGPA: 3.12076
+
+Name: Salma Hayek
+ID: 23
+Address: 45 Mexican Boulevard, Hotel California, Malaysia 467822
+Date of Birth: 06-04-1973
+Phone No: 790-0000
+Course: CS
+CGPA: 3.12076
+
+Name: Tan Ge
+ID: 25
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 2
+
+Name: Matt Damon
+ID: 28
+Address: 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+Date of Birth: 10-10-1970
+Phone No: 790-3233
+Course: CS
+CGPA: 3.12076
+
+Name: Julia Roberts
+ID: 29
+Address: 100 Brokovich St, Malaysia 456455
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+Name: Julia Roberts
+ID: 30
+Address: 100 Brokovich St, Malaysia 456455
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+Name: Fat Fat
+ID: 36
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 2
+
+Name: Test duplicate
+ID: 40
+Address: Hello world 1234
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+Name: power puff
+ID: 43
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 1.4412
+
+Name: Tan Fat
+ID: 46
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 2
+
+Name: Tan Ge
+ID: 47
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 2.04
+
+Name: Test duplicate
+ID: 48
+Address: 100 Brokovich St, Malaysia 456455
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+Name: No test
+ID: 56
+Address: Hello world 1234
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+Name: Test 
+ID: 58
+Address: Hello world 1234
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+Name: Phua Kang
+ID: 68
+Address: 50 PCK Avenue, Malaysia 639798
+Date of Birth: 11-08-1964
+Phone No: 345-6780
+Course: CS
+CGPA: 3.12076
+
+Name: Ben ten
+ID: 69
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 1
+
+Name: Test duplicate
+ID: 70
+Address: 200 Hunting Street, Malaysia 784563
+Date of Birth: 25-10-1968
+Phone No: 432-4579
+Course: IB
+CGPA: 3.12076
+
+Name: qMatt Damon
+ID: 72
+Address: 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+Date of Birth: 10-10-1970
+Phone No: 790-3233
+Course: CS
+CGPA: 3.12076
+
+Name: Tan start
+ID: 78
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 1.3131
+
+Name: Tan JingJie
+ID: 80
+Address: Hello world 1234
+Date of Birth: 11-06-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 4
+
+Name: Go go powerranger
+ID: 82
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 3.21
+
+Name: Hello world
+ID: 87
+Address: Hello world 1234
+Date of Birth: 31-04-2000
+Phone No: 381-0852
+Course: CS
+CGPA: 2.04
+
+Name: Salma Hayeked
+ID: 93
+Address: 45 Mexican Boulevard, Hotel California, Malaysia 467822
+Date of Birth: 06-04-1973
+Phone No: 790-0000
+Course: CS
+CGPA: 3.12076
+
+Name: sJulia Roberts
+ID: 96
+Address: 100 Brokovich St, Malaysia 456455
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
